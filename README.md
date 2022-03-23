@@ -86,23 +86,23 @@ Here are some ideas to get you started:
 # 📜 Certificates:
 <p align="center">
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/python">
-    <img alt="Kaggle - Python" title="Kaggle - Python" src="https://raw.githubusercontent.com/Trung1808-code/Trung1808-code/main/Certificates/Le%20Thanh%20Trung%20-%20Python.png" width="200px" />
+    <img alt="Kaggle - Python" title="Kaggle - Python" src="https://raw.githubusercontent.com/Trung1808-code/Trung1808-code/main/Certificates/Le%20Thanh%20Trung%20-%20Python.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/pandas">
-    <img alt="Kaggle - Pandas" title="Kaggle - Pandas" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Pandas.png" width="200px" />
+    <img alt="Kaggle - Pandas" title="Kaggle - Pandas" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Pandas.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning." src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
+    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning." src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Intro%20to%20Machine%20Learning.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/intermediate-machine-learning">
-    <img alt="Kaggle - Intermediate Machine Learning" title="Kaggle - Intermediate Machine Learning" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Intermediate%20Machine%20Learning.png" width="200px" />
+    <img alt="Kaggle - Intermediate Machine Learning" title="Kaggle - Intermediate Machine Learning" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Intermediate%20Machine%20Learning.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/machine-learning-explainability">
-    <img alt="Kaggle - Machine Learning Explainability" title="Kaggle - Machine Learning Explainability" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Machine%20Learning%20Explainability.png" width="200px" />
+    <img alt="Kaggle - Machine Learning Explainability" title="Kaggle - Machine Learning Explainability" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Machine%20Learning%20Explainability.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/data-cleaning">
@@ -114,6 +114,6 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/feature-engineering">
-    <img alt="Kaggle - Feature Engineering" title="Kaggle - Feature Engineering" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Feature%20Engineering.png" width="400px" />
+    <img alt="Kaggle - Feature Engineering" title="Kaggle - Feature Engineering" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Feature%20Engineering.png" width="300px" />
   </a>
 </p>
