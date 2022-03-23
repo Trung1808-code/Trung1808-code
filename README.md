@@ -106,11 +106,11 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/data-cleaning">
-    <img alt="Kaggle - Data Cleaning" title="Kaggle - Data Cleaning" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Data%20Cleaning.png" width="200px" />
+    <img alt="Kaggle - Data Cleaning" title="Kaggle - Data Cleaning" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Data%20Cleaning.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/data-visualization">
-    <img alt="Kaggle - Data Visualization" title="Kaggle - Data Visualization" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Data%20Visualization.png" width="200px" />
+    <img alt="Kaggle - Data Visualization" title="Kaggle - Data Visualization" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Data%20Visualization.png" width="300px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/feature-engineering">
