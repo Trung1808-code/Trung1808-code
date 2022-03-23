@@ -93,27 +93,27 @@ Here are some ideas to get you started:
     <img alt="Kaggle - Pandas" title="Kaggle - Pandas" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Pandas.png" width="200px" />
   </a>
   
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning">
-    <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
+  <a href="https://www.kaggle.com/learn/certification/trunglethanh/intro-to-machine-learning">
+    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning." src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
   </a>
   
-   <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
+  <a href="https://www.kaggle.com/learn/certification/trunglethanh/intermediate-machine-learning">
+    <img alt="Kaggle - Intermediate Machine Learning" title="Kaggle - Intermediate Machine Learning" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Intermediate%20Machine%20Learning.png" width="200px" />
   </a>
   
-    <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
+  <a href="https://www.kaggle.com/learn/certification/trunglethanh/machine-learning-explainability">
+    <img alt="Kaggle - Machine Learning Explainability" title="Kaggle - Machine Learning Explainability" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Machine%20Learning%20Explainability.png" width="200px" />
   </a>
   
-    <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
+  <a href="https://www.kaggle.com/learn/certification/trunglethanh/data-cleaning">
+    <img alt="Kaggle - Data Cleaning" title="Kaggle - Data Cleaning" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Data%20Cleaning.png" width="200px" />
   </a>
   
-    <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
+  <a href="https://www.kaggle.com/learn/certification/trunglethanh/data-visualization">
+    <img alt="Kaggle - Data Visualization" title="Kaggle - Data Visualization" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Data%20Visualization.png" width="200px" />
   </a>
   
-    <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
+  <a href="https://www.kaggle.com/learn/certification/trunglethanh/feature-engineering">
+    <img alt="Kaggle - Feature Engineering" title="Kaggle - Feature Engineering" src="https://github.com/Trung1808-code/Trung1808-code/blob/main/Certificates/Le%20Thanh%20Trung%20-%20Feature%20Engineering.png" width="400px" />
   </a>
 </p>
