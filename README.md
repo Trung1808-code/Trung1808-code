@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 # 📜 Certificates:
 <p align="center">
   <a href="https://www.kaggle.com/learn/certification/trunglethanh/python">
-    <img alt="Kaggle - Python" title="Kaggle - Python" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Python.png" width="200px" />
+    <img alt="Kaggle - Python" title="Kaggle - Python" src="https://raw.githubusercontent.com/Trung1808-code/Trung1808-code/main/Certificates/Le%20Thanh%20Trung%20-%20Python.png" width="200px" />
   </a>
   
   <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
